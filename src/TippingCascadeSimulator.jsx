@@ -293,7 +293,8 @@ export default function TippingCascadeSimulator() {
       fontFamily: '"Segoe UI", system-ui, sans-serif',
       color: 'white',
       padding: '16px',
-      maxWidth: '600px',
+      width: '100%',
+      maxWidth: '900px',
       margin: '0 auto'
     }}>
       {/* Header */}
